@@ -48,7 +48,7 @@ portfólio na área de tecnologia.
 Alguns dos projetos disponíveis no meu GitHub:
 
 - 🎵 [Spotify Clone](https://github.com/PatrickRyam2/spotify)
-- 💰 [Nubis][(https://github.com/PatrickRyam2/Nubis)]
+- 💰 [Nubis](https://github.com/Nubis-Corp/Nubis-Financeiro)
 - 🎬 [Netflix Clone](https://github.com/PatrickRyam2/Netflix)
 - 💘 [Tinder Clone](https://github.com/PatrickRyam2/Tinder)
 - ☕ [Starbucks Clone](https://github.com/PatrickRyam2/Starbucks)
