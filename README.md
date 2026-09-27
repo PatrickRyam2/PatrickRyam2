@@ -62,4 +62,4 @@ Alguns dos projetos disponíveis no meu GitHub:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=PatrickRyam2&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickRyam2&show_icons=true&theme=tokyonight)
