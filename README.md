@@ -47,11 +47,13 @@ portfólio na área de tecnologia.
 
 Alguns dos projetos disponíveis no meu GitHub:
 
-- 🎵 Projeto inspirado no Spotify
-- 🎬 Projeto inspirado na Netflix
-- ☕ Projeto inspirado no Starbucks
-- 💬 Projeto inspirado no Facebook
-- 💘 Projeto inspirado no Tinder
+- 🎵 [Spotify Clone](https://github.com/PatrickRyam2/spotify)
+- 💰 [Nubis](https://github.com/PatrickRyam2/Nubis)
+- 🎬 [Netflix Clone](https://github.com/PatrickRyam2/Netflix)
+- 💘 [Tinder Clone](https://github.com/PatrickRyam2/Tinder)
+- ☕ [Starbucks Clone](https://github.com/PatrickRyam2/Starbucks)
+- 💬 [Facebook Clone](https://github.com/PatrickRyam2/Facebook)
+- 📰 [Site de Notícias](https://github.com/PatrickRyam2/site-de-noticias)
 
 ## 🔗 Conecte-se comigo
 
