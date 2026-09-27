@@ -58,3 +58,8 @@ Alguns dos projetos disponíveis no meu GitHub:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/patrick-ryan-6b8b8123b/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-PatrickRyam2-black?style=for-the-badge&logo=github)](https://github.com/PatrickRyam2)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickRyam2&show_icons=true&theme=tokyonight)
