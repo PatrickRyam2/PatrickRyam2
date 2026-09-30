@@ -1,6 +1,6 @@
 # Olá! Eu sou Patrick Ryan 👋
 
-🎓 Graduando de Engenharia de Software  
+🎓 Graduando em Engenharia de Software  
 💻 Interessado em Desenvolvimento Front-End  
 📍 São Paulo - SP, Brasil
 
