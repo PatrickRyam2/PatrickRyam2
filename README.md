@@ -1,12 +1,12 @@
 # Olá! Eu sou Patrick Ryan 👋
 
-🎓 Estudante de Engenharia de Software  
+🎓 Graduando de Engenharia de Software  
 💻 Interessado em Desenvolvimento Front-End  
 📍 São Paulo - SP, Brasil
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software na Jala University,
+ Graduando em Engenharia de Software na Jala University,
 atualmente desenvolvendo meus conhecimentos em programação e
 desenvolvimento web.
 
